@@ -1,0 +1,22 @@
+{
+  "name": "crudfiredevs",
+  "version": "1.0.0",
+  "description": "System for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alcantara2575/CRUDfiredevs.git"
+  },
+  "author": "Ailan Alcantara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alcantara2575/CRUDfiredevs/issues"
+  },
+  "homepage": "https://github.com/alcantara2575/CRUDfiredevs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
