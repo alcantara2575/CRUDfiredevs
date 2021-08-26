@@ -8,7 +8,7 @@ var Estudent = function(student){
   this.age            = student.age;
   this.sex            = student.sex;
   this.born_date      = student.born_date;
-  this.group_id          = student.group_id;
+  this.group_id       = student.group_id;
 };
 Estudent.create = function (newEmp, result) {
 dbConn.query("INSERT INTO students set ?", newEmp, function (err, res) {

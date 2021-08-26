@@ -58,9 +58,9 @@ It response only to addresses in table below, it does with json data or message 
 * In request body should by all data for new entry.
 
 ### PUT 
-* Used for update data for a existed student.
+* Used for update data for a existed student or group.
 * In request body should insert all updated data.
 
 ### DELETE
-* Used for remove all entry of a student with specific id.
+* Used for remove all entry of a student or group with specific id.
 

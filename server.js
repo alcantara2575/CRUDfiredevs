@@ -6,7 +6,7 @@ app.use(cors());
 
 const bodyParser = require('body-parser');
 // Setup server port
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3030;
 // parse requests of content-type - application/x-www-form-urlencoded
 app.use(bodyParser.urlencoded({ extended: true }))
 // parse requests of content-type - application/json
